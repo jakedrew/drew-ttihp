@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This works by compiling Hardcaml to verilog and then what it'll do after I'm not 100% sure but rough idea is...
 
 ## How to test
 
-Explain how to use your project
+Plug in and run.
 
 ## External hardware
 
